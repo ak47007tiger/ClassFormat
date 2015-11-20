@@ -1,0 +1,46 @@
+USERPROFILE	:	C:\Users\Peter
+ProgramData	:	C:\ProgramData
+PATHEXT	:	.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+windows_tracing_logfile	:	C:\BVTBin\Tests\installpackage\csilogfile.log
+JAVA_HOME	:	C:\Program Files\Java\jdk1.7.0_75
+VBOX_MSI_INSTALL_PATH	:	C:\Program Files\Oracle\VirtualBox\
+ProgramFiles(x86)	:	C:\Program Files (x86)
+windows_tracing_flags	:	3
+TEMP	:	C:\Users\Peter\AppData\Local\Temp
+SystemDrive	:	C:
+MOZ_PLUGIN_PATH	:	D:\Program Files\Foxit Reader\plugins\
+ProgramFiles	:	C:\Program Files
+Path	:	C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;%JAVA_HOME%;D:\cygwin\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;D:\MinGW\bin;D:\Program Files\gradle-2.2.1\bin;C:\Program Files\Java\jdk1.7.0_75\bin;
+HOMEDRIVE	:	C:
+PROCESSOR_REVISION	:	3c03
+USERDOMAIN	:	Peter-PC
+ALLUSERSPROFILE	:	C:\ProgramData
+ProgramW6432	:	C:\Program Files
+PROCESSOR_IDENTIFIER	:	Intel64 Family 6 Model 60 Stepping 3, GenuineIntel
+SESSIONNAME	:	Console
+PAODING_DIC_HOME	:	E:\graduation\mygraduation\src\dic
+TMP	:	C:\Users\Peter\AppData\Local\Temp
+LIBRARY_PATH	:	D:\MinGW\lib
+PROCESSOR_ARCHITECTURE	:	AMD64
+CommonProgramFiles	:	C:\Program Files\Common Files
+CLASSPATH	:	.;C:\Program Files\Java\jdk1.7.0_75\lib;C:\Program Files\Java\jdk1.7.0_75\lib\tools.jar
+=::	:	::\
+LOGONSERVER	:	\\PETER-PC
+FP_NO_HOST_CHECK	:	NO
+OS	:	Windows_NT
+GRADLE_HOME	:	D:\Program Files\gradle-2.2.1
+HOMEPATH	:	\Users\Peter
+PROCESSOR_LEVEL	:	6
+CommonProgramW6432	:	C:\Program Files\Common Files
+LOCALAPPDATA	:	C:\Users\Peter\AppData\Local
+COMPUTERNAME	:	PETER-PC
+windir	:	C:\Windows
+SystemRoot	:	C:\Windows
+NUMBER_OF_PROCESSORS	:	4
+USERNAME	:	Peter
+PUBLIC	:	C:\Users\Public
+PSModulePath	:	C:\Windows\system32\WindowsPowerShell\v1.0\Modules\
+ANDROID_HOME	:	D:\Android\android-sdk
+CommonProgramFiles(x86)	:	C:\Program Files (x86)\Common Files
+ComSpec	:	C:\Windows\system32\cmd.exe
+APPDATA	:	C:\Users\Peter\AppData\Roaming
